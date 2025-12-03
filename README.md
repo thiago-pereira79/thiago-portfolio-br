@@ -1,7 +1,7 @@
 # 🌐 Portfólio - Thiago Pereira
 
 [![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-green)](LICENSE)
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-blue)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-blue)
 ![Feito com](https://img.shields.io/badge/Feito%20com-React%20|%20TypeScript%20|%20Vite-orange)
 
 ---
@@ -13,7 +13,7 @@ O foco deste projeto é ter uma interface limpa, organizada e responsiva, funcio
 ---
 
 🔗 **Acesse o portfólio online:**  
-_em breve_
+https://thiago-portfolio-br.vercel.app/
 
 ---
 
